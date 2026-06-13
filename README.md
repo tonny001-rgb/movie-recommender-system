@@ -143,11 +143,17 @@ The top 5 movies are selected based on highest predicted ratings.
 
 ---
 ## Repository starcture
+
 -data
+
 -ipynb.notebook
+
 -pdf presentation notebook
+
 -pdf slide presentation
+
 -gitignore
+
 -readme.md
 
 
