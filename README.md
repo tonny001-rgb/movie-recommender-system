@@ -144,5 +144,19 @@ The top 5 movies are selected based on highest predicted ratings.
 ---
 
 ## Repository Structure
-
+movie-recommendation-system/
+│
+├── README.md
+├── .gitignore
+│
+├── data/
+│   └── raw/              # MovieLens dataset (unchanged / original)
+│
+├── notebooks/
+│   ├── eda.ipynb
+│   ├── modeling.ipynb
+│   └── evaluation.ipynb
+│
+└── models/
+    └── saved_models/
 
